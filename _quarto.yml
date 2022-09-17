@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/bradfordjohnson
+      - icon: envelope
+        href: mailto:bradfordljohnson@outlook.com
 format:
   html:
     theme: flatly
