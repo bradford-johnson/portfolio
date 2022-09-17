@@ -4,6 +4,34 @@
     "href": "index.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "text\n\n\nsentiment\n\n\nSQL\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nbusiness\n\n\nexcel\n\n\nmodel\n\n\n\n\n\n\n\n\n\n\n\nAug 23, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\nNo matching items"
+    "text": "tutorials\n\n\ndeliverable\n\n\nR\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ntext\n\n\nsentiment\n\n\nSQL\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nbusiness\n\n\nexcel\n\n\nmodel\n\n\n\n\n\n\n\n\n\n\n\nAug 23, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/car-rental/index.html",
+    "href": "posts/car-rental/index.html",
+    "title": "Revenue Growth Model",
+    "section": "",
+    "text": "Business Analysis for Lariat Rent-A-Car\n\nExamined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)\nFacilitated exploratory data analysis and assessed by KPI performance.\nDeveloped and presented models that showcased a 40% increase in profits."
+  },
+  {
+    "objectID": "posts/twitter/index.html",
+    "href": "posts/twitter/index.html",
+    "title": "Twitter Project",
+    "section": "",
+    "text": "Project using R and postgreSQL to conduct an analysis on Tweets extracted with R via the Twitter API."
+  },
+  {
+    "objectID": "posts/blog/index.html",
+    "href": "posts/blog/index.html",
+    "title": "Rblogr",
+    "section": "",
+    "text": "I created this blog to show how powerful R is, and to feature code vignettes that are tutorial-style. Another reason for making this blog is that I wanted to share what I have learned, and things I wish I had known or realized earlier (such as using GitHub!)."
   }
 ]

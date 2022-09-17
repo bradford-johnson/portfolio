@@ -1,0 +1,13 @@
+---
+title: "Rblogr"
+author: "Bradford Johnson"
+date: "2022-09-16"
+categories: [tutorials, deliverable, R, Quarto]
+---
+
+## **Rblogr \|** ![](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red) **\|** [![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20project-informational)](https://bradfordjohnson.github.io/rblogr/)
+
+I created this blog to show how powerful R is, and to feature code vignettes that are tutorial-style. Another reason for making this blog is that I wanted to share what I have learned, and things I wish I had known or realized earlier (such as using GitHub!).
+
+![](andrew-neel-cckf4TsHAuw-unsplash.jpg)
+
