@@ -10,4 +10,9 @@ date: "2022-09-16"
 ![](jeremy-bezanger-EXDRSDPJbv4-unsplash.jpg)
 
 ## Data Collection Process Flow Chart
+
 ![](data-collection.png)
+
+## Data Cleaning and Analysis Flow Chart 
+
+## ![](data-cleaning-analysis.png)
