@@ -1,6 +1,5 @@
 ---
 title: "Revenue Growth Model"
-author: "Bradford Johnson"
 date: "2022-08-23"
 ---
 

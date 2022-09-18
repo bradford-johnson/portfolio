@@ -1,6 +1,5 @@
 ---
 title: "Twitter Project"
-author: "Bradford Johnson"
 date: "2022-09-16"
 ---
 
