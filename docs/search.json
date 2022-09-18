@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Bradford’s Portfolio",
     "section": "",
-    "text": "Sep 16, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 23, 2022\n\n\nBradford Johnson\n\n\n\n\n\n\nNo matching items"
+    "text": "Rblogr\n\n\n\n\n\n\nBradford Johnson\n\n\nSep 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwitter Project\n\n\n\n\n\n\nBradford Johnson\n\n\nSep 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRevenue Growth Model\n\n\n\n\n\n\nBradford Johnson\n\n\nAug 23, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -25,13 +25,13 @@
     "href": "posts/twitter/index.html",
     "title": "Twitter Project",
     "section": "",
-    "text": "Project using R and postgreSQL to conduct an analysis on Tweets extracted with R via the Twitter API."
+    "text": "Using R and SQL to conduct sentiment analysis on Tweets from a range of topics."
   },
   {
     "objectID": "posts/blog/index.html",
     "href": "posts/blog/index.html",
     "title": "Rblogr",
     "section": "",
-    "text": "I created this blog to show how powerful R is, and to feature code vignettes that are tutorial-style. Another reason for making this blog is that I wanted to share what I have learned, and things I wish I had known or realized earlier (such as using GitHub!)."
+    "text": "I created this blog to show R code vignettes that are like “mini-tutorials” for anyone interested in R."
   }
 ]
