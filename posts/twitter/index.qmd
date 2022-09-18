@@ -8,3 +8,6 @@ date: "2022-09-16"
 **Using R and SQL to conduct sentiment analysis on Tweets from a range of topics.**
 
 ![](jeremy-bezanger-EXDRSDPJbv4-unsplash.jpg)
+
+## Data Collection Process Flow Chart
+![](data-collection.png)
