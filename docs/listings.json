@@ -2,8 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/blog/index.html",
       "/posts/twitter/index.html",
+      "/posts/blog/index.html",
       "/posts/car-rental/index.html"
     ]
   }
