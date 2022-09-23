@@ -3,16 +3,16 @@ title: "Twitter Project"
 date: "2022-09-16"
 ---
 
-## **Twitter Analysis Project \|** ![](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red) **\|** [![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20project-informational)](https://github.com/bradfordjohnson/twitter-analysis-project)
+## **Twitter Analysis Project \|**![](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen) **\|** [![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20project-informational)](https://bradfordjohnson.github.io/twitter-analysis-project/)
 
 **Using R and SQL to conduct sentiment analysis on Tweets from a range of topics.**
 
-![](jeremy-bezanger-EXDRSDPJbv4-unsplash.jpg)
+![](jeremy-bezanger-EXDRSDPJbv4-unsplash.jpg){width="587"}
 
 ## Data Collection Process Flow Chart
 
-![](data-collection.png)
+![](data-collection.png){width="583"}
 
 ## Data Cleaning and Analysis Flow Chart
 
-## ![](data-cleaning-analysis.png)
+## ![](data-cleaning-analysis.png){width="580"}
