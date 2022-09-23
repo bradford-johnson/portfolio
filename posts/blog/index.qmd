@@ -1,11 +1,11 @@
 ---
 title: "Rblogr"
 date: "2022-09-15"
+image: "andrew-neel-cckf4TsHAuw-unsplash.jpg"
 ---
 
-## **Rblogr \|** ![](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red) **\|** [![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20blog-informational)](https://bradfordjohnson.github.io/rblogr/)
+## **Rblogr** ![](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red) 
 
 **Blog that features R vignettes that are like "mini-tutorials" for anyone interested in R.**
 
-![](andrew-neel-cckf4TsHAuw-unsplash.jpg)
-
+[![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20blog-informational)](https://bradfordjohnson.github.io/rblogr/)

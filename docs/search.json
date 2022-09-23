@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Bradford’s Portfolio",
     "section": "",
-    "text": "Sep 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 23, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Sep 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 23, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/blog/index.html",
@@ -25,7 +25,7 @@
     "href": "posts/car-rental/index.html",
     "title": "Revenue Growth Model",
     "section": "",
-    "text": "Business Analysis for Lariat Rent-A-Car\n\nExamined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)\nFacilitated exploratory data analysis and assessed by KPI performance.\nDeveloped and presented models that showcased a 40% increase in profits."
+    "text": "Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)\nFacilitated exploratory data analysis and assessed by KPI performance.\nDeveloped and presented models that showcased a 40% increase in profits."
   },
   {
     "objectID": "posts/twitter/index.html",
@@ -33,19 +33,5 @@
     "title": "Twitter Project",
     "section": "",
     "text": "Using R and SQL to conduct sentiment analysis on Tweets from a range of topics."
-  },
-  {
-    "objectID": "posts/twitter/index.html#data-collection-process-flow-chart",
-    "href": "posts/twitter/index.html#data-collection-process-flow-chart",
-    "title": "Twitter Project",
-    "section": "Data Collection Process Flow Chart",
-    "text": "Data Collection Process Flow Chart"
-  },
-  {
-    "objectID": "posts/twitter/index.html#data-cleaning-and-analysis-flow-chart",
-    "href": "posts/twitter/index.html#data-cleaning-and-analysis-flow-chart",
-    "title": "Twitter Project",
-    "section": "Data Cleaning and Analysis Flow Chart",
-    "text": "Data Cleaning and Analysis Flow Chart"
   }
 ]
