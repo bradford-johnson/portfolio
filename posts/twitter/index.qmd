@@ -4,8 +4,50 @@ date: "2022-09-22"
 image: "jeremy-bezanger-EXDRSDPJbv4-unsplash.jpg"
 ---
 
-## **Twitter Analysis Project** ![](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
+## **Twitter Analysis Project**
 
-> **Using R and SQL to conduct sentiment analysis on Tweets from a range of topics.**
+# ![](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
 
-[![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20project-informational)](https://bradfordjohnson.github.io/twitter-analysis-project/)
+> **Completed a sentiment analysis on Tweets about several topics, and a word correlation visualization.**
+
+## Languages used:
+
+> -   R
+>
+> -   SQL
+>
+> -   Markdown
+>
+>     -   R Markdown, GitHub Markdown
+
+## Tools used:
+
+> -   RStudio
+>
+> -   postgreSQL
+>
+> -   pgAdmin4
+>
+> -   GitHub
+>
+> -   Twitter Developer Account
+
+## Packages used:
+
+| `R` **Package** | **Use**                                 |
+|-----------------|-----------------------------------------|
+| `tidyverse`     | data manipulation, cleaning, etc.       |
+| `tidytext`      | text data manipulation, cleaning, etc.  |
+| `rtweet`        | communicate with Twitter API and R      |
+| `RPostgres`     | communicate with postgreSQL database    |
+| `DBI`           | communicate with databases, and use SQL |
+| `Quarto`        | for reporting insights and methods      |
+| `widyr`         | for pairwise correlation                |
+
+## View Project
+
+<p align="center">
+
+[![](https://img.shields.io/badge/%F0%9F%94%8D-Click%20here%20to%20view%20project-blue)](https://bradfordjohnson.github.io/twitter-analysis-project/)
+
+</p>

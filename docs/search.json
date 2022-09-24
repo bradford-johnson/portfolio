@@ -25,13 +25,34 @@
     "href": "posts/car-rental/index.html",
     "title": "Revenue Growth Model",
     "section": "",
-    "text": "Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)\nFacilitated exploratory data analysis and assessed by KPI performance.\nDeveloped and presented models that showcased a 40% increase in profits."
+    "text": "Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)\nFacilitated exploratory data analysis and assessed by KPI performance.\nDeveloped and presented models that showcased a 40% increase in profits.\n\n\n |"
   },
   {
-    "objectID": "posts/twitter/index.html",
-    "href": "posts/twitter/index.html",
+    "objectID": "posts/twitter/index.html#languages-used",
+    "href": "posts/twitter/index.html#languages-used",
     "title": "Twitter Project",
-    "section": "",
-    "text": "Using R and SQL to conduct sentiment analysis on Tweets from a range of topics."
+    "section": "Languages used:",
+    "text": "Languages used:\n\n\nR\nSQL\nMarkdown\n\nR Markdown, GitHub Markdown"
+  },
+  {
+    "objectID": "posts/twitter/index.html#tools-used",
+    "href": "posts/twitter/index.html#tools-used",
+    "title": "Twitter Project",
+    "section": "Tools used:",
+    "text": "Tools used:\n\n\nRStudio\npostgreSQL\npgAdmin4\nGitHub\nTwitter Developer Account"
+  },
+  {
+    "objectID": "posts/twitter/index.html#packages-used",
+    "href": "posts/twitter/index.html#packages-used",
+    "title": "Twitter Project",
+    "section": "Packages used:",
+    "text": "Packages used:\n\n\n\nR Package\nUse\n\n\n\n\ntidyverse\ndata manipulation, cleaning, etc.\n\n\ntidytext\ntext data manipulation, cleaning, etc.\n\n\nrtweet\ncommunicate with Twitter API and R\n\n\nRPostgres\ncommunicate with postgreSQL database\n\n\nDBI\ncommunicate with databases, and use SQL\n\n\nQuarto\nfor reporting insights and methods\n\n\nwidyr\nfor pairwise correlation"
+  },
+  {
+    "objectID": "posts/twitter/index.html#view-project",
+    "href": "posts/twitter/index.html#view-project",
+    "title": "Twitter Project",
+    "section": "View Project",
+    "text": "View Project"
   }
 ]

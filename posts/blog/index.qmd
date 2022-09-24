@@ -4,8 +4,14 @@ date: "2022-09-15"
 image: "andrew-neel-cckf4TsHAuw-unsplash.jpg"
 ---
 
-## **Rblogr** ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange) 
+## **Rblogr** 
 
-**Blog that features R vignettes that are like "mini-tutorials" for anyone interested in R.**
+# ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange)
 
-[![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20blog-informational)](https://bradfordjohnson.github.io/rblogr/)
+> **Blog that features R vignettes that are like "mini-tutorials" for anyone interested in R.**
+
+<p align="center">
+
+[![](https://img.shields.io/badge/%F0%9F%94%8D-Click%20here%20to%20view%20blog-blue)](https://bradfordjohnson.github.io/rblogr/)
+
+</p>

@@ -4,7 +4,9 @@ date: "2022-08-23"
 image: "lucas-hobbs-gEHSvDMHnEA-unsplash.jpg"
 ---
 
-## **Business Analysis for Lariat Rent-A-Car** ![](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
+## **Business Analysis for Lariat Rent-A-Car** 
+
+# ![](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
 
 > **Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)**
 >
@@ -12,4 +14,8 @@ image: "lucas-hobbs-gEHSvDMHnEA-unsplash.jpg"
 >
 > **Developed and presented models that showcased a 40% increase in profits.**
 
-[![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20deliverables-informational)](https://1drv.ms/u/s!Ahpkb3AfX4xfgsAxTN0RVGUcFr9uzw?e=TwoVOP)
+<p align="center">
+
+[![](https://img.shields.io/badge/%F0%9F%94%8D-Click%20here%20to%20view%20Excel%20model-blue)](https://1drv.ms/x/s!Ahpkb3AfX4xfgsA0TbaqsDQorD8vKA?e=vEQXVr) **\|** [![](https://img.shields.io/badge/%F0%9F%94%8D-Click%20here%20to%20view%20Powerpoint-blue)](https://1drv.ms/p/s!Ahpkb3AfX4xfgsAztt7OBQG6rwSqYg?e=HYOXor)
+
+</p>
