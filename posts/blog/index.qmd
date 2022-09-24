@@ -4,7 +4,7 @@ date: "2022-09-15"
 image: "andrew-neel-cckf4TsHAuw-unsplash.jpg"
 ---
 
-## **Rblogr** ![](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red) 
+## **Rblogr** ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange) 
 
 **Blog that features R vignettes that are like "mini-tutorials" for anyone interested in R.**
 
