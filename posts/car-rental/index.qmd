@@ -6,10 +6,10 @@ image: "lucas-hobbs-gEHSvDMHnEA-unsplash.jpg"
 
 ## **Business Analysis for Lariat Rent-A-Car** ![](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
 
-> Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)
+> **Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)**
 >
-> Facilitated exploratory data analysis and assessed by KPI performance.
+> **Facilitated exploratory data analysis and assessed by KPI performance.**
 >
-> Developed and presented models that showcased a 40% increase in profits.
+> **Developed and presented models that showcased a 40% increase in profits.**
 
 [![](https://img.shields.io/badge/%F0%9F%94%8D-CLICK%20HERE%20to%20view%20deliverables-informational)](https://1drv.ms/u/s!Ahpkb3AfX4xfgsAxTN0RVGUcFr9uzw?e=TwoVOP)
