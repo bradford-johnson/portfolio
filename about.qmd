@@ -6,8 +6,16 @@ about:
 
 This is my portfolio website. Feel free to reach out to me if you want to collaborate on a project, have any feedback or questions for an existing project, or if you would like to get to know more about me :)
 
-## **Links:**
+## **Links**
 
-> *Click on the badges below to get in touch with me or see more of my work!*
+------------------------------------------------------------------------
+
+> **Socials:**
 
 [![](svg/linkedin.svg)](https://www.linkedin.com/in/bradford-ford-johnson) [![](svg/outlook.svg)](mailto:bradfordljohnson@outlook.com) [![](svg/orcid.svg)](https://orcid.org/0000-0002-5460-9984) [![](svg/kaggle.svg)](https://www.kaggle.com/bradfordjohnson) [![](svg/tableau.svg)](https://public.tableau.com/app/profile/bradfordjohnson) [![](svg/github.svg)](https://github.com/bradfordjohnson)
+
+------------------------------------------------------------------------
+
+> **Repositories:**
+
+[![](svg/r.svg)](https://github.com/bradfordjohnson/r) [![](svg/sql.svg)](https://github.com/bradfordjohnson/sql)
