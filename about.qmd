@@ -20,3 +20,9 @@ This is my portfolio website. Feel free to reach out to me if you want to collab
 > **Repositories:**
 
 [![](svg/r.svg)](https://github.com/bradfordjohnson/r) [![](svg/sql.svg)](https://github.com/bradfordjohnson/sql)
+
+------------------------------------------------------------------------
+
+> **Files:**
+
+[![](svg/resume.svg)](https://1drv.ms/b/s!Ahpkb3AfX4xfg992ZlYBuvcWItFqdA?e=0wKuGY)
