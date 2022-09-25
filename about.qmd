@@ -2,6 +2,7 @@
 title: "About"
 about:
   template: trestles
+image: alan-king-KZv7w34tluA-unsplash.jpg
 ---
 
 This is my portfolio website. Feel free to reach out to me if you want to collaborate on a project, have any feedback or questions for an existing project, or if you would like to get to know more about me :)
@@ -12,7 +13,7 @@ This is my portfolio website. Feel free to reach out to me if you want to collab
 
 > **Socials:**
 
-[![](svg/linkedin.svg)](https://www.linkedin.com/in/bradford-ford-johnson) [![](svg/outlook.svg)](mailto:bradfordljohnson@outlook.com) [![](svg/orcid.svg)](https://orcid.org/0000-0002-5460-9984) [![](svg/kaggle.svg)](https://www.kaggle.com/bradfordjohnson) [![](svg/tableau.svg)](https://public.tableau.com/app/profile/bradfordjohnson) [![](svg/github.svg)](https://github.com/bradfordjohnson)
+## [![](svg/linkedin.svg)](https://www.linkedin.com/in/bradford-ford-johnson) [![](svg/outlook.svg)](mailto:bradfordljohnson@outlook.com) [![](svg/tableau.svg)](https://public.tableau.com/app/profile/bradfordjohnson) [![](svg/kaggle.svg)](https://www.kaggle.com/bradfordjohnson) [![](svg/github.svg)](https://github.com/bradfordjohnson) [![](svg/orcid.svg)](https://orcid.org/0000-0002-5460-9984)
 
 ------------------------------------------------------------------------
 
